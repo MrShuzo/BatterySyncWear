@@ -1,0 +1,13 @@
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\BatterySyncWear.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\BatterySyncWear.pdb
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Core.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Platform.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\bin\Xamarin.Forms.Xaml.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\BatterySyncWear.deps.json
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\shared\res\BatterySyncWear.png
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\tizen-manifest.xml
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\tpkroot\res\tizen-circular-ui-theme.edj
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\de.shuzo.BatterySyncWear-1.0.0.tpk

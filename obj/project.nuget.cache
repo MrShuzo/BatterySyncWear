@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPeP98Kkn4nfduZN7B4vPpmlaqimQTWcdwRWIbwbpC0718l/N+XfVlBew2I8QpercZNBrTl137XF6q5HMcOX9A==",
+  "success": true,
+  "projectFilePath": "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\BatterySyncWear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbsky\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\nbsky\\.nuget\\packages\\tizen.net\\8.0.0.15631\\tizen.net.8.0.0.15631.nupkg.sha512",
+    "C:\\Users\\nbsky\\.nuget\\packages\\tizen.net.api4\\4.0.1.14164\\tizen.net.api4.4.0.1.14164.nupkg.sha512",
+    "C:\\Users\\nbsky\\.nuget\\packages\\tizen.wearable.circularui\\1.5.0\\tizen.wearable.circularui.1.5.0.nupkg.sha512",
+    "C:\\Users\\nbsky\\.nuget\\packages\\xamarin.forms\\4.6.0.967\\xamarin.forms.4.6.0.967.nupkg.sha512"
+  ],
+  "logs": []
+}

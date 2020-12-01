@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\BatterySyncWear.csproj": {}
+  },
+  "projects": {
+    "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\BatterySyncWear.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\BatterySyncWear.csproj",
+        "projectName": "BatterySyncWear",
+        "projectPath": "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\BatterySyncWear.csproj",
+        "packagesPath": "C:\\Users\\nbsky\\.nuget\\packages\\",
+        "outputPath": "F:\\Eigene_Programme\\BatterySyncWear\\BatterySyncWear\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nbsky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "tizen40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "tizen40": {
+            "targetAlias": "tizen40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "tizen40": {
+          "targetAlias": "tizen40",
+          "dependencies": {
+            "Tizen.NET": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0.15631, )",
+              "autoReferenced": true
+            },
+            "Tizen.Wearable.CircularUI": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

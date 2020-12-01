@@ -1,0 +1,10 @@
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\BatterySyncWear.deps.json
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\BatterySyncWear.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\bin\Debug\tizen40\BatterySyncWear.pdb
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.csprojAssemblyReference.cache
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.AssemblyInfoInputs.cache
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.AssemblyInfo.cs
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.csproj.CoreCompileInputs.cache
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\XamlC.stamp
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.dll
+F:\Eigene_Programme\BatterySyncWear\BatterySyncWear\obj\Debug\tizen40\BatterySyncWear.pdb
